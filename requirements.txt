@@ -1,5 +1,6 @@
+pillow
 streamlit>=1.35.0
 pandas>=2.2.0
 openpyxl>=3.1.2
 huggingface_hub>=0.23.0
-pillow
+pypdf>=4.2.0
